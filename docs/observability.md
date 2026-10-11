@@ -378,6 +378,10 @@ To explore metrics locally:
 
 > **Roadmap Note (Actor-Level Metrics):** A comprehensive metrics roadmap is under active development to support both system operators and workload analysis. Planned OpenTelemetry instrumentation focuses on control plane latency, state snapshot performance, fleet utilization density, and enriching metrics with standardized actor labels for seamless aggregation across pod transitions.
 
+### SLOs and alerting
+
+Please see the [SLOs and alerting](slos-and-alerts.md) page for suggestions about how to set up SLOs, SLO-based alerts, and other alerts to ensure your deployment is working well.
+
 ---
 
 ## 3. Tracing
